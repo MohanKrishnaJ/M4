@@ -1,7 +1,7 @@
 # EX-16-LEFT-SHIFT-OPERATION
-NAME : YASHWANTH K 
+NAME : MOHAN KRISHNA J
 
-REG NO : 212224040369
+REG NO : 212223220060
 
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
